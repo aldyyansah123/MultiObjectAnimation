@@ -1,0 +1,26 @@
+{
+"name": "multiobjectaldanimation",
+"version": "1.0.0",
+"description": "This project demonstrates a simple multi-object animation using JavaScript and CSS. It features three red square objects moving horizontally within the browser window. When any object reaches the window's edge, it changes direction, creating a continuous bouncing effect.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/aldyyansah123/MultiObjectAnimation.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "aldyyansah123",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
